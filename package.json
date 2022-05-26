@@ -1,0 +1,19 @@
+{
+  "name": "dio-desafio-github",
+  "version": "1.0.0",
+  "description": "- Colocarei neste repositório todos os Desafio de Códigos que farei durante o Bootcamp.",
+  "main": "letrauunica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaapcode/DIO-Desafio-GitHub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaapcode/DIO-Desafio-GitHub/issues"
+  },
+  "homepage": "https://github.com/rafaapcode/DIO-Desafio-GitHub#readme"
+}
