@@ -16,7 +16,7 @@ class User {
 
                 return this._senha;
             }else{
-                throw new Error("Você não é ADM");
+                throw new Error("Você não é Administrador !!!");
             }
         } catch (e) {
             return e.message;
